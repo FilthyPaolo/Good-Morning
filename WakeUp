@@ -3,4 +3,5 @@
 int main()
 {
   cout << "Good Morning" << endl;
+  cout << "Wake Up Mr West" << endl;
 }
